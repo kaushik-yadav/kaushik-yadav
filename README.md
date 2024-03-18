@@ -33,7 +33,4 @@ Hi 👋, I'm Kaushik Yadav<br>Python developer | Technical Team Member @ Google 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushik-yadav&show_icons=true&locale=en&layout=compact" alt="kaushik-yadav" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kaushik-yadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
