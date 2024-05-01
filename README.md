@@ -4,10 +4,7 @@ Hi 👋, I'm Kaushik Yadav<br>Python developer | Technical Team Member @ Google 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/kaushik-yadav05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushik-yadav05" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.codechef.com/users/kaushik_yadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kaushik_yadav" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/kaushiky005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaushiky005" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/kaushik_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kaushik_yadav" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/kaushik-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushik-yadav/" height="30" width="40" /></a>
 </p>
 
 ## Languages :
