@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kaushik Yadav<br>Python developer | Technical Team Member @ Google DSC |Web Development | Data Science | CSE 26'<br><br>💬 Ask me about Python ,CP ,Data Science<br><br>📫 How to reach me kaushiky@gmail.com<br><br>
+Hi 👋, I'm Kaushik Yadav<br>PySpark | ETL | Data Warehousing |  Technical Team Member @ Google DSC | CSE 26'<br><br>💬 Ask me about Python ,PySpark ,ETL pipelines<br><br>📫 How to reach me kaushiky@gmail.com<br><br>
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
