@@ -15,17 +15,11 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="mailto:kaushiky005@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="email" height="30" width="30" />
-  </a> &nbsp;&nbsp;
+  <a href="mailto:kaushiky005@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="email" height="30" width="30"/></a> &nbsp;&nbsp;
   <a href="https://instagram.com/kaushik_yadav_29" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="instagram" height="30" width="30" />
-  </a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/kaushik-yadav05" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="kaushik-yadav05" height="30" width="30" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/kaushiky005" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaushiky005" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="instagram" height="30" width="30" /></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kaushik-yadav05" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="kaushik-yadav05" height="30" width="30"/></a> &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/kaushiky005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"alt="kaushiky005" height="30" width="40" />
   </a>
 </p>
 
