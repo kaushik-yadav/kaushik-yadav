@@ -77,5 +77,6 @@
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-yadav&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-yadav&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
+
