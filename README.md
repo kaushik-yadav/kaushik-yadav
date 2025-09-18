@@ -76,7 +76,10 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushik-yadav&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushik-yadav&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushik-yadav&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaushik-yadav&theme=dracula)
+
+
+
 
