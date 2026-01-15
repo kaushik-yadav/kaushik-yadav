@@ -1,85 +1,100 @@
-# About Me:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image"/>
+</p>
 
-## Hi , I'm Kaushik Yadav  
+<h1 align="center">Hey there, I'm <a href="https://github.com/kaushikyadav">Kaushik Yadav</a> 👋🏻</h1>
+
+<p align="center">
+  <b>AI Engineer | LLM & Multi-Agent Systems | RAG, Voice and Finance AI Systems</b>
+</p>
+
+<div align=center> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=AI+Engineer+%7C+LLMs+%26+Multi-Agent+Systems;Building+Production-Ready+AI+That+Actually+Works;Systems+%3E+Models+%7C+Shipping+Over+Hype" alt="Headline" /> 
+</div>
 
 
-### AI Engineer | LLMs | RAGs | CSE 26' | Technical Team Member @ Google DSC  GESCOE
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaushikyadav&label=Profile%20Views&color=32CD32&style=flat" alt="Profile Views"/>
+</p>
 
-💬 Ask me about AI systems, LLM integration, and data workflows  
+---
+### 🚀 About Me
 
-🔭 Currently learning: Deep Learning & Neural Networks(LSTM, RNNs, GRUs, CNNs)
+- AI Engineer focused on **LLMs, multi-agent systems, and intelligent automation**
+- Strong in **AI + backend engineering**, I enjoy owning products end-to-end
+- Experience building **agent platforms, AI SaaS tools, and ML pipelines**
+- Exploring Finance AI systems and Risk modelling
 
-📫 How to reach me: kaushiky005@gmail.com  
-<br>
-
-<h2 align="left">Connect with me:</h2>
+---
+## 🌍 Connect With Me
 <p align="left">
-  <a href="mailto:kaushiky005@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="email" height="30" width="30"/></a> &nbsp;&nbsp;
-  <a href="https://instagram.com/kaushik_yadav_29" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="instagram" height="30" width="30" /></a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/kaushik-yadav05" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="kaushik-yadav05" height="30" width="30"/></a> &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/kaushiky005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"alt="kaushiky005" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/kaushik-yadav05/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
+  <a href="https://leetcode.com/kaushik-yadav/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" height="48"/>
+  </a>
+  <a href="mailto:kaushiky005@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="48"/>
+  </a>
+  <a href="https://codeforces.com/profile/kaushik_yadav">
+    <img src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" height="48"/>
+  </a>
+  <a href="https://www.codechef.com/users/kaushik_yadav">
+    <img src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" height="48"/>
   </a>
 </p>
 
 ---
-<br>
 
-## Languages :
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 🧰 Tech Stack & Tools
 
----
+<table align="center">
+  <tr>
+    <th width="260">Languages</th>
+    <th width="260">AI / ML</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" height="56" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" height="56" />
+    </td>
+  </tr>
+</table>
 
-## Frameworks & Tools:
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%2300FF95?style=for-the-badge) 
-![LangGraph](https://img.shields.io/badge/LangGraph-%23FF6600?style=for-the-badge) 
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-
-
----
-
-## AI:
-![OpenAI](https://img.shields.io/badge/openai-%23412991?style=for-the-badge&logo=openai&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/huggingface-%23FF6C37?style=for-the-badge&logo=huggingface&logoColor=white) 
-![FAISS](https://img.shields.io/badge/faiss-%232D23A5?style=for-the-badge) 
-![Flowise](https://img.shields.io/badge/flowise-%2300BFFF?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/pinecone-%23F9A91B?style=for-the-badge&logo=pinecone&logoColor=white)
-
----
-
-## Data Tools :
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![PySpark](https://img.shields.io/badge/pyspark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23FFFFFF.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-
-
+<table align="center">
+  <tr>
+    <th width="500">Backend / Cloud / DB</th>
+    <th width="320">Tools</th>
+  </tr>
+  <tr>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,postgresql,mongodb,redis,docker,rabbitmq,aws" height="56" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" height="56" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Database & Version Control:
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushik-yadav&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushik-yadav&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaushik-yadav&theme=dracula)
-
-
-
-
+## 📊 GitHub Activity
+<table align="left">
+  <tr>
+    <td>
+      <img width src="metrics/core.svg" />      
+    </td>
+    <td>
+      <img src="metrics/leetcode.svg" />     
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=kaushik-yadav&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushik-yadav&theme=react-dark&hide_border=true" />
+</p>
